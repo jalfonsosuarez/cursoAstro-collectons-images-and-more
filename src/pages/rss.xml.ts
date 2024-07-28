@@ -1,5 +1,4 @@
 import rss from "@astrojs/rss";
-
 import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
 
